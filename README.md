@@ -41,21 +41,6 @@ I occasionally code in **Python**, and I’ll soon be publishing my **rice setup
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epicvampire&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=epicvampire&theme=dark&hide_border=false" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicvampire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120px"/>
-</p>
-
-
-
 ---
 
 <p align="center">

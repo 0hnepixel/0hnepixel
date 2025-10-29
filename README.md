@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm pixel</h1>
+<h3 align="center">A passionate learner & Linux ricer</h3>
 
-<!--
-**0hnepixel/0hnepixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Languages & Tools
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+> “Minimal, functional, and beautiful — that’s how I like my Linux.”
+
+I’m a **Linux ricer** who spends way too much time tweaking configs until everything looks *just right*.  
+I occasionally code in **Python**, and I’ll soon be publishing my **rice setups** and **dotfiles** for others to use and customize.
+
+---
+
+### 🧠 Interests
+- 🧩 Linux customization (rice, window managers, themes)
+- 🐍 Python scripting
+- ⚙️ Automation & open-source tools
+
+### ⚡ Current Projects
+- 🪞 Personal rice setup *(coming soon!)*
+- 🧰 Python automation scripts for config management
+
+✨ *Stay tuned — fresh rices coming soon!*
+
+---
+
+### 🐍 Snake Contributions
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=epicvampire&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=epicvampire&theme=dark&hide_border=false" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicvampire&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120px"/>
+</p>
+
+
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=epicvampire&icon=7&color=10" alt="Visitor count"/>
+</p>
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->

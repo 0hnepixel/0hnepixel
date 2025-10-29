@@ -41,10 +41,3 @@ I occasionally code in **Python**, and I’ll soon be publishing my **rice setup
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=epicvampire&icon=7&color=10" alt="Visitor count"/>
-</p>
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
